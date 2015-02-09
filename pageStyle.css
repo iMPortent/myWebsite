@@ -1,6 +1,6 @@
 // the style of the page will be witheld in these caticombs 
 
-body {
+h1 {
   color: red !important;
   font-size: 100px;
 }
