@@ -1,5 +1,5 @@
 // the style of the page will be witheld in these caticombs 
 
 body {
-  color: red;
+  color: red !important;
 }
