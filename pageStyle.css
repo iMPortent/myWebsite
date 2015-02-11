@@ -6,6 +6,6 @@ h1 {
 }
 
 .headTop {
-  background-color: rgba(48, 110, 255, 1);
+  background: rgba(48, 110, 255, 1);
   length: 200px; 
 }
