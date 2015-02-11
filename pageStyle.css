@@ -5,7 +5,7 @@ h1 {
   font-family: times;
 }
 
-.headTop {
+.col-md-6 {
   background: rgba(48, 110, 255, 1);
   length: 200px; 
 }
